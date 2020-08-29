@@ -8,7 +8,7 @@
       <p><b>地址：王瑞升心里哦</b></p>
     </td>
     <td width="25%">
-      <img src="/llj.jpg" width="100%">      % 插入证件照代码
+      <img src="/llj.jpg" width="100%">
     </td>
   </tr>
 </table>
